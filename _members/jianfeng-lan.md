@@ -1,8 +1,8 @@
 ---
-name: Feng Yan, PhD
+name: Jianfeng (Jeff) Lan
 image: images/photo.jpg
 # description: Lead Programmer
-role: Co-Founding Director
+role: Ph.D. student
 # links:
 #   email: sarah.johnson@gmail.com
 #   twitter: sarahjohnson

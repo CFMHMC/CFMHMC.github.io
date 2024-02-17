@@ -13,8 +13,18 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+## Co-Founding Director
+
+{% include list.html data="members" component="portrait" filters="name: Yi Mou" %}
+{% include list.html data="members" component="portrait" filters="name: Feng Yan" %}
+
+## Ph.D. Student
+
+{% include list.html data="members" component="portrait" filters="role: Ph.D. student" %}
+
+## M.A. Student
+
+{% include list.html data="members" component="portrait" filters="role: M.A. student" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
