@@ -1,8 +1,8 @@
 ---
-name: Feng Yan, Ph.D.
+name: Yicong Guan
 image: images/photo.jpg
 # description: Lead Programmer
-role: Co-Founding Director
+role: Ph.D. student
 # links:
 #   email: sarah.johnson@gmail.com
 #   twitter: sarahjohnson

@@ -1,5 +1,5 @@
 ---
-name: Yi Mou, PhD
+name: Yi Mou, Ph.D.
 image: images/photo.jpg
 role: Co-Founding Director
 aliases:

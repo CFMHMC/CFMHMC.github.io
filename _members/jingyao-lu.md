@@ -1,8 +1,8 @@
 ---
-name: Feng Yan, Ph.D.
+name: Jingyao Lu
 image: images/photo.jpg
 # description: Lead Programmer
-role: Co-Founding Director
+role: M.A. Student
 # links:
 #   email: sarah.johnson@gmail.com
 #   twitter: sarahjohnson
