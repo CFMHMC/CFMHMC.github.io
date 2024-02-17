@@ -1,7 +1,7 @@
 ---
 name: Shuyi Pan
 image: images/photo.jpg
-role: Ph.D. student
+role: Ph.D. Student
 group: alum
 # links:
 #   github: john-doe

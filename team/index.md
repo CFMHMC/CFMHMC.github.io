@@ -20,11 +20,11 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
 ## Ph.D. Student
 
-{% include list.html data="members" component="portrait" filters="role: Ph.D. student" %}
+{% include list.html data="members" component="portrait" filters="role: Ph.D. Student" %}
 
 ## M.A. Student
 
-{% include list.html data="members" component="portrait" filters="role: M.A. student" %}
+{% include list.html data="members" component="portrait" filters="role: M.A. Student" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 

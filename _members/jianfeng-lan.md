@@ -2,7 +2,7 @@
 name: Jianfeng (Jeff) Lan
 image: images/photo.jpg
 # description: Lead Programmer
-role: Ph.D. student
+role: Ph.D. Student
 # links:
 #   email: sarah.johnson@gmail.com
 #   twitter: sarahjohnson
