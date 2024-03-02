@@ -1,7 +1,7 @@
 ---
 title: Open Data
 nav:
-  order: 2
+  order: 6
   tooltip: Software, datasets, and more
 ---
 
