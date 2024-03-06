@@ -1,6 +1,6 @@
 ---
 name: Junyi Chen
-image: images/photo.jpg
+image: images/chenjunxin.jpg
 # description: Lead Programmer
 role: M.A. Student
 # links:

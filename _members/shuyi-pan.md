@@ -1,6 +1,6 @@
 ---
 name: Shuyi Pan
-image: images/photo.jpg
+image: images/panshuyi.jpg
 role: Ph.D. Student
 group: alum
 # links:

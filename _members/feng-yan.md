@@ -1,6 +1,6 @@
 ---
 name: Feng Yan, Ph.D.
-image: images/photo.jpg
+image: images/yanfeng.jpg
 # description: Lead Programmer
 role: Co-Founding Director
 # links:

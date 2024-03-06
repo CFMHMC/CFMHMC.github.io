@@ -1,6 +1,6 @@
 ---
 name: Tianyu Yang
-image: images/photo.jpg
+image: images/yangtianyu.jpg
 # description: Lead Programmer
 role: M.A. Student
 # links:

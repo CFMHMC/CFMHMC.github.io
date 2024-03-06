@@ -1,6 +1,6 @@
 ---
 name: Jingyao Lu
-image: images/photo.jpg
+image: images/lujingyao.jpg
 # description: Lead Programmer
 role: M.A. Student
 # links:

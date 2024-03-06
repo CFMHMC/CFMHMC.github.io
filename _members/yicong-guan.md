@@ -1,6 +1,6 @@
 ---
 name: Yicong Guan
-image: images/photo.jpg
+image: images/guanyicong.jpg
 # description: Lead Programmer
 role: Ph.D. Student
 # links:
