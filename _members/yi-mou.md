@@ -1,6 +1,6 @@
 ---
 name: Yi Mou, Ph.D.
-image: images/photo.jpg
+image: images/mouyi.jpg
 role: Co-Founding Director
 aliases:
   - Y. Mou
