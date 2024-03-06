@@ -7,6 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
+We are a group of geeky nerds and nerdy geeks. 
+
+
 {% include section.html %}
 
 ## Co-Founding Director

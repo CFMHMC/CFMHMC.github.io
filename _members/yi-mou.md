@@ -6,8 +6,11 @@ aliases:
   - Y. Mou
   - Y Mou
 links:
+  email: yimou@sjtu.edu.cn
   home-page: 
   orcid: 
 ---
+
+Professor, School of Media and Communication
 
 
