@@ -27,3 +27,7 @@ First edit
 ## M.A. Student
 
 {% include list.html data="members" component="portrait" filters="role: M.A. Student" %}
+
+## Previous Members
+
+{% include list.html data="members" component="portrait" filters="role: Previous Member" %}
