@@ -36,7 +36,7 @@ Enjoy!
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/research.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -57,7 +57,7 @@ Enjoy!
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/publications.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -80,7 +80,7 @@ Enjoy!
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/teaching.jpg"
   link="team"
   title="Our Team"
   text=text
