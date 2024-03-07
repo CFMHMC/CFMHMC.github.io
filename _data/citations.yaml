@@ -182,27 +182,11 @@
   - Casey S. Greene
   - Anthony Gitter
   publisher: PLOS Computational Biology
-  date: '2020-12-04'
+  date: '2019-06-24'
   link: https://doi.org/c7np
   orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/573782
   title: Sequential compression of gene expression across dimensionalities and methods
     reveals no single best method or dimensionality
@@ -218,33 +202,6 @@
   orcid: 0000-0002-4655-3773
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
-  authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1177/14614448231212822
   title: Good night versus goodbye? Comparing the mourning remarks of virtual and
     human uploaders through a data-mining approach
@@ -255,6 +212,75 @@
   publisher: New Media &amp; Society
   date: '2023-12-02'
   link: https://doi.org/gtk2wc
+  type: paper
+  image: images/publications.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/10447318.2023.2256554
+  title: Desirable or Distasteful? Exploring Uncertainty in Human-Chatbot Relationships
+  authors:
+  - Shuyi Pan
+  - Jie Cui
+  - Yi Mou
+  publisher: "International Journal of Human\u2013Computer Interaction"
+  date: '2023-09-12'
+  link: https://doi.org/gtk2xx
+  type: paper
+  image: images/publications.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1071/SH22025
+  title: "East\u2013west disparities in safer sex inside China: a sociocultural perspective"
+  authors:
+  - Lin Zhang
+  - Yi Mou
+  - Jilong Wang
+  publisher: Sexual Health
+  date: '2023-04-24'
+  link: https://doi.org/gtk2xz
+  type: paper
+  image: images/publications.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/her/cyad012
+  title: 'Promoting condom negotiation self-efficacy among young women in China: the
+    effects of traditional sexual values and descriptive norms'
+  authors:
+  - Lin Zhang
+  - Yi Mou
+  - Lianshan Zhang
+  publisher: Health Education Research
+  date: '2023-02-28'
+  link: https://doi.org/gtk2x2
+  type: paper
+  image: images/publications.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/10447318.2022.2163350
+  title: "Does Self-Disclosing to a Robot Induce Liking for the Robot? Testing the\
+    \ Disclosure and Liking Hypotheses in Human\u2013Robot Interaction"
+  authors:
+  - Yi Mou
+  - Lin Zhang
+  - Yuheng Wu
+  - Shuyi Pan
+  - Xiaoyu Ye
+  publisher: "International Journal of Human\u2013Computer Interaction"
+  date: '2023-01-08'
+  link: https://doi.org/gtk2x3
+  type: paper
+  image: images/publications.jpg
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1080/17543266.2022.2125589
+  title: Avatar personalisation vs. privacy in a virtual try-on app for apparel shopping
+  authors:
+  - Alex Ivanov
+  - Yi Mou
+  - Letwin Tawira
+  publisher: International Journal of Fashion Design, Technology and Education
+  date: '2022-10-04'
+  link: https://doi.org/gtk2x4
   type: paper
   image: images/publications.jpg
   plugin: sources.py
