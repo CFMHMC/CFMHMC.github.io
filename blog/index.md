@@ -18,12 +18,12 @@ Our center is sending out a big team to attend ICA 2024. See you in Gold Coast, 
 - Jin Q., Lan J., Lin Z. (2024, June). Share my face: Understanding Privacy Paradox and Third-person Effect of Artificial Intelligence Generated Content (AIGC) Applications. in Proceedings of the 74th Annual International Communication Association Conference, Gold Coast, Australia, June 22, 2024.  
 - Dai, F. & Chen, J. (2024, June). Fact-checking is fact-checking? A comparative analysis of four Chinese fact-checking organizations. ICA 2024, Gold Coast, Australia.
 <!-- 
-# {% include section.html %}
+ {% include section.html %}
 
-# {% include search-box.html %}
+ {% include search-box.html %}
 
-# {% include tags.html tags=site.tags %}
+ {% include tags.html tags=site.tags %}
 
-# {% include search-info.html %}
+ {% include search-info.html %}
 
-# {% include list.html data="posts" component="post-excerpt" %} -->
+ {% include list.html data="posts" component="post-excerpt" %} -->
