@@ -12,7 +12,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="Good night vs. Goodbye? Comparing the mourning remarks of virtual and human uploaders via a data-mining approach" style="rich" %}
+{% include citation.html lookup="doi:10.1177/14614448231212822" style="rich" %}
 
 {% include section.html %}
 
