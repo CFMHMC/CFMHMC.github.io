@@ -12,7 +12,7 @@ nav:
 
 ## Highlighted
 
-{% include citation.html lookup="doi:10.1177/14614448231212822" style="rich" %}
+{% include citation.html lookup="Good night versus goodbye? Comparing the mourning remarks" style="rich" %}
 
 {% include section.html %}
 
