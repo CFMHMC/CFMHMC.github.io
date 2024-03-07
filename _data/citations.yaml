@@ -6,9 +6,9 @@
   - 牟怡
   #- Kevin Schaper
   publisher: 青年记者
-  date: '11月下24-26页'
-  link: https://mp.pdnews.cn/Pc/ArtInfoApi/article?id=39210959
-  orcid: 0000-0002-4655-3773
+  date: '2023-11-25'
+  link: https://kns.cnki.net/kcms2/article/abstract?v=S5uBaE2M3OeSfZZ_c7CkAc6wepznAxQjDSlXv4ndGjgv5B2H7qZNasU1QRmThHI2FdGD0xvcClWhHDilrHhB_NZwyoPPPG_b3tJbWc0gFp5kmKeDotRF8vdM2gRgMOBX_wWKk4MIAD0=&uniplatform=NZKPT&language=CHS
+  orcid: 1002-2759
   plugin: orcid.py
   file: orcid.yaml
 
