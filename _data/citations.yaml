@@ -255,6 +255,7 @@
   publisher: New Media &amp; Society
   date: '2023-12-02'
   link: https://doi.org/gtk2wc
+  type: paper
   image: images/publications.jpg
   plugin: sources.py
   file: sources.yaml
