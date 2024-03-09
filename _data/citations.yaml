@@ -83,3 +83,12 @@
   image: images/publications.jpg
   plugin: sources.py
   file: sources.yaml
+- title: "\u4EBA\u673A\u4F20\u64AD\u7684\u5185\u6DB5\u3001\u5916\u5EF6\u53CA\u7814\
+    \u7A76\u8BAE\u7A0B"
+  authors:
+  - "\u725F\u6021"
+  publisher: "\u9752\u5E74\u8BB0\u8005"
+  date: ''
+  link: doi:10.15997/j.cnki.qnjz.2023.02.019
+  plugin: sources.py
+  file: sources.yaml
