@@ -17,7 +17,7 @@ nav:
 {% include section.html %}
 
 ## All
-
+ 
 {% include search-box.html %}
 
 {% include search-info.html %}
