@@ -90,5 +90,7 @@
   publisher: "\u9752\u5E74\u8BB0\u8005"
   date: ''
   link: doi:10.15997/j.cnki.qnjz.2023.02.019
+  type: paper
+  image: images/publications.jpg
   plugin: sources.py
   file: sources.yaml
