@@ -22,9 +22,10 @@
   type: paper
   image: images/publications.jpg
   
-- title: 人机传播的内涵、外延及研究议程
+- id: doi:10.15997/j.cnki.qnjz.2023.02.019
   type: paper
   image: images/publications.jpg
+  title: 人机传播的内涵、外延及研究议程
   authors:
     - 牟怡
   publisher: 青年记者
