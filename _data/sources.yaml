@@ -22,20 +22,18 @@
   type: paper
   image: images/publications.jpg
   
-- id: doi:10.15997/j.cnki.qnjz.2023.02.019
+- title: 人机传播的内涵、外延及研究议程
   type: paper
   image: images/publications.jpg
-  title: 人机传播的内涵、外延及研究议程
   authors:
     - 牟怡
   publisher: 青年记者
   date: '2023-01-25'
   link: http://www.qnjz.com/index.php?m=content&c=index&a=show&catid=7&id=37776
 
-- id: zhang2023theold
+- title: 老年残障群体新媒体复合赋权的条件与路径考察
   type: paper
   image: images/publications.jpg
-  title: 老年残障群体新媒体复合赋权的条件与路径考察
   authors:
     - 张林
     - 牟怡
@@ -43,10 +41,9 @@
   date: '2023-05-15'
   link: https://chn.oversea.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=XWDX202305008&uniplatform=OVERSEA&v=8rOqUyEtECbwQVV9j2RZtmihfl7miDCSb5z5_MrzxLzyLBL_8xz446XrXIyigLuT
 
-- id: lu2023digit
+- title: 数字时代躺平文化的建构：基于青年亚文化视角
   type: paper
   image: images/publications.jpg
-  title: 数字时代躺平文化的建构：基于青年亚文化视角
   authors:
     - 路文廷
     - 张林
