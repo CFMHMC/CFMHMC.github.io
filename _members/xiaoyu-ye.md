@@ -1,6 +1,6 @@
 ---
 name: 叶晓玉, Xiaoyu Ye
-image: images/wutupian.jpg
+image: images/yexiaoyu.jpg
 # description: Lead Programmer
 role: M.A. Student
 # links:
