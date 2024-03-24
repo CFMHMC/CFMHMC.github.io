@@ -1,5 +1,5 @@
 ---
-name: Xiaoyu Ye
+name: 叶晓玉, Xiaoyu Ye
 image: images/wutupian.jpg
 # description: Lead Programmer
 role: M.A. Student

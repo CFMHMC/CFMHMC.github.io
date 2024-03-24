@@ -1,5 +1,5 @@
 ---
-name: Jianfeng (Jeff) Lan
+name: 蓝剑锋, Jianfeng (Jeff) Lan
 image: images/lanjianfeng.jpg
 # description: Lead Programmer
 role: Ph.D. Student

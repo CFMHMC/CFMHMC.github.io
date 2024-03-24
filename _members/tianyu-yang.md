@@ -1,5 +1,5 @@
 ---
-name: Tianyu Yang
+name: 杨天宇, Tianyu Yang
 image: images/yangtianyu.jpg
 # description: Lead Programmer
 role: M.A. Student
