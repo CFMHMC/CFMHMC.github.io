@@ -14,7 +14,7 @@ We are a group of geeky nerds and nerdy geeks.
 
 ## Co-Founding Director
 
-{% include list.html data="members" component="portrait" filters="name: Yi Mou" %}
+{% include list.html data="members" component="portrait" filters="Yi Mou" %}
 {% include list.html data="members" component="portrait" filters="name: Feng Yan" %}
 
 ## Ph.D. Student
