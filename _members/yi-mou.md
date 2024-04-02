@@ -7,7 +7,7 @@ aliases:
   - Y Mou
 links:
   email: yimou@sjtu.edu.cn
-  home-page: 
+  home-page: https://cfmhmc.github.io/yimou.github.io/
   orcid: 
 ---
 
