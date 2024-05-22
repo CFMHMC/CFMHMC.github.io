@@ -1,5 +1,5 @@
 ---
-name: 牟怡, Yi Mou, Ph.D.
+name: Yi Mou, Ph.D.
 image: images/mouyi.jpg
 role: Co-Founding Director
 aliases:
