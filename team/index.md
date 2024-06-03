@@ -25,3 +25,7 @@ We are a group of geeky nerds and nerdy geeks. We are proud of who we are.
 ## M.A. Student
 
 {% include list.html data="members" component="portrait" filters="role: M.A. Student" %}
+
+## Previous Member
+
+{% include list.html data="members" component="portrait" filters="role: Previous Member" %}

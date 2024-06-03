@@ -5,6 +5,7 @@ role: Co-Founding Director
 aliases:
   - Y. Mou
   - Y Mou
+  - Yi Mou
 links:
   email: yimou@sjtu.edu.cn
   home-page: https://cfmhmc.github.io/yimou.github.io/
