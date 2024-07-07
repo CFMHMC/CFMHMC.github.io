@@ -7,6 +7,16 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
+### 2024.06
+**Gains and fun at ICA 2024**
+
+Six presentations have been made at the ICA main conference, two presentations have been made at the ICA pre-conferences, and two panels have been chaired by us. It has been a fruitful trip for our team. 
+
+Meanwhile, it has been quite an honor to witness two major achievements recognized by the global academic community. First, Dr. Carolyn A. Lin has been inducted as Fellows of the ICA (see the official news here: https://www.icahdq.org/page/2024-fellows-inductees). She has been a mentor, role model, and family to the members of our center over the years. Second, Prof. Guoliang Zhang from our school has received the Aubrey Fisher Mentorship Award (see the official news here: https://www.icahdq.org/blogpost/1523657/502151/Congratulations-ICA-2024-Award-Winners). He has been a leading figure for all of us from the school of Media and Communication, Shanghai Jiao Tong University over the past two decades. 
+
+More importantly, we had fun in Queensland, Australia. Work hard, and play harder. Who can resist koala and wallabies anyway? 
+
+
 ### 2024.02
 Meet us in Gold Coast, Australia!
 
