@@ -4,9 +4,9 @@ image: images/chenjunxin.jpg
 # description: Lead Programmer
 role: M.A. Student
 links:
-    home-page: www.tanyachen.com
+    # home-page: www.tanyachen.com
 #   email: sarah.johnson@gmail.com
 #   twitter: sarahjohnson
 ---
-Personal website: www.tanyachen.com
+Homepage: [Click here](www.tanyachen.com)
 
