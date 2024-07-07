@@ -8,5 +8,5 @@ links:
 #   email: sarah.johnson@gmail.com
 #   twitter: sarahjohnson
 ---
-Homepage: [Click here](www.tanyachen.com)
+Homepage: [Click here](https://www.tanyachen.com/)
 
