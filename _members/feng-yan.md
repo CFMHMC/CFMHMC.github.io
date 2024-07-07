@@ -3,6 +3,8 @@ name: 阎峰, Feng Yan, Ph.D.
 image: images/yanfeng.png
 # description: Lead Programmer
 role: Co-Founding Director
+aliases:
+  - Feng Yan
 links:
   email: fyan@sjtu.edu.cn
 #   twitter: sarahjohnson
