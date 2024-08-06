@@ -10,3 +10,11 @@ nav:
 For years, we are trying to initiate a process of sharing the raw data and materials used in our projects to try to make the global academic community better. 
 
 More to come. 
+
+For years, we have been trying to initiate a mini-project to summarize and share the materials used in diverse projects to make the experimental design more transparent. Below, we have reviewed some commonly used approaches and stimuli we find useful. They are organized in topics (more to come). 
+
+我们一直尝试将实验设计中常用的刺激方法总结出来，提供一个一站式共享服务供大家参考。如今我们终于开始一点点累计了，更多的还在总结路上。
+
+* Conflict 冲突
+* Social Ostracism 社会排斥
+* Trust 信任
