@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-database" %}Open Data
 
-For years, we are trying to initiate a process of sharing the raw data and materials used in our projects to try to make the global academic community better. 
 
-More to come. 
 
 For years, we have been trying to initiate a mini-project to summarize and share the materials used in diverse projects to make the experimental design more transparent. Below, we have reviewed some commonly used approaches and stimuli we find useful. They are organized in topics (more to come). 
 
