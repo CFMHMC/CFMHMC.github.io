@@ -14,16 +14,16 @@ description: Social Ostracism in OpenData
 投球范式（Cyberball）和网络点赞（Likes Online）是两个常用的实验方法。以下是两个实验方法的介绍。
 
 Giesen, A., & Echterhoff, G. (2018). Do I really feel your pain? Comparing the 
-effects of observed and personal ostracism. Personality and Social Psychology Bulletin, 44(4), 550–561.
-Juanchich M, Walasek L, Sirota M. Decision- makers are resilient in the face of social exclusion. British Journal of Psychology, 2018, 109(3): 604-630
+effects of observed and personal ostracism. Personality and Social Psychology Bulletin, 44(4), 550–561.\
+Juanchich M, Walasek L, Sirota M. Decision- makers are resilient in the face of social exclusion. British Journal of Psychology, 2018, 109(3): 604-630\
 Reddy LF, Irwin MR, Breen EC, et al. Social exclusion in schizophrenia: 
-Psychological and cognitive consequences. Journal of Psychiatric Research, 2019, 114: 120-125
-Rudert, S. C., Ruf, S., & Greifeneder, R. (2019). Whom to Punish? How observers sanction norm-violating behavior in ostracism situations. European Journal of Social Psychology, 50(2), 376–391.
+Psychological and cognitive consequences. Journal of Psychiatric Research, 2019, 114: 120-125\
+Rudert, S. C., Ruf, S., & Greifeneder, R. (2019). Whom to Punish? How observers sanction norm-violating behavior in ostracism situations. European Journal of Social Psychology, 50(2), 376–391.\
 Wesselmann, E. D., Williams, K. D., & Hales, A. H. (2013). Vicarious ostracism.
-Frontiers in Human Neuroscience, 7(7), 153.
+Frontiers in Human Neuroscience, 7(7), 153.\
 Williams, K. D. Ostracism: The kiss of social death. Social and Personality 
-Psychology Compass, 2007（1）, 236–247.
-L. Zardro, K.D. Williams, R. Richardson. How long can you go? Ostracism by a computer is sufficient to lower mood and self-reported levels of belonging, control, self-esteem, and meaningful existence. Journal of Experimental Social Psychology,2004, 40, 560-567.       
+Psychology Compass, 2007（1）, 236–247.\
+L. Zardro, K.D. Williams, R. Richardson. How long can you go? Ostracism by a computer is sufficient to lower mood and self-reported levels of belonging, control, self-esteem, and meaningful existence. Journal of Experimental Social Psychology,2004, 40, 560-567.     
 
 ## 二、Approach 1: Cyberball 方法一：虚拟掷球
 
@@ -46,7 +46,7 @@ L. Zardro, K.D. Williams, R. Richardson. How long can you go? Ostracism by a com
 
 ### 3. References: 参考文献：
 
-K.D. Williams, C.K.T. Cheung, W. Choi. Cyber Ostracism: Effects of being ignored over the Internet. Journal of Personality and Social Psychology, 79(2000), pp.748-762.
+K.D. Williams, C.K.T. Cheung, W. Choi. Cyber Ostracism: Effects of being ignored over the Internet. Journal of Personality and Social Psychology, 79(2000), pp.748-762.\
 Wesselmann ED, Bagg D, Williams KD. “I feel your pain”: The effects of observing ostracism on the ostracism detection system. Journal of Experimental Social Psychology, 2009，45 (6): 1308-1311. http://dx.doi.org/10.1016/j.jesp.2009.08.003 
 
 ## 三、Approach 2: Likes online方法二：网络点赞
@@ -72,5 +72,5 @@ Wesselmann ED, Bagg D, Williams KD. “I feel your pain”: The effects of obser
 （图片来源：Frank M. Schneider* , Britta Zwillich y , Melanie J. Bindl a , Frederic R. Hopp b , Sabine Reich c , Peter Vorderer. 2017. Social media ostracism: The effects of being excluded online. Computers in human behavior. (73):385-393）
 
 ### 3.References参考文献：
-Wolf W, Levordashka A, Ruff JR, et al. Ostracism online: A social media ostracism paradigm. Behavior Research Methods, 2015, 47(2): 361-373
+Wolf W, Levordashka A, Ruff JR, et al. Ostracism online: A social media ostracism paradigm. Behavior Research Methods, 2015, 47(2): 361-373\
 Frank M. Schneider, Britta Zwillich y, Melanie J. Bindl, Frederic R. Hopp, Sabine Reich, Peter Vorderer. 2017. Social media ostracism: The effects of being excluded online. Computers in human behavior. (73):385-393
