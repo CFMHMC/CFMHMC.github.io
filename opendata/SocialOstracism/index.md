@@ -2,19 +2,28 @@
 title: Social Ostracism
 description: Social Ostracism in OpenData
 ---
-Social Ostracism 社会排斥
-一、Definition概念定义：
+# Social Ostracism 社会排斥
+## 一、Definition概念定义：
 社会排斥（ostracism）指个体被忽视（ignored）或拒绝接纳(excluded)，它会诱发个体
 强烈的负面心理体验（Williams, 2007）。社会排斥不仅会使被排斥的个体产生消极情感，还会损害个体的认知功能和执行功能（Juanchich et al.,2018; Reddy et al.,2019）。
+
 社会排斥不仅影响当事人，也会使旁观者受到影响。替代性排斥(vicarious ostracism)，又称观察排斥（observed ostracism; Giesen & Echterhoff, 2018），是个体观察别人遭受排斥时产生的心理现象。体验到替代性排斥的人会产生特定情绪感受，如同情并帮助受排斥者、惩罚排斥实施者（Rudert, Ruf, & Greifeneder, 2019; Wesselmann, Wirth, Pryor, Reeder, & Williams, 2013）。
+
 投球范式（Cyberball）和网络点赞（Likes Online）是两个常用的实验方法。以下是两个实验方法的介绍。
 
 Giesen, A., & Echterhoff, G. (2018). Do I really feel your pain? Comparing the effects of observed and personal ostracism. Personality and Social Psychology Bulletin, 44(4), 550–561.
+
 Juanchich M, Walasek L, Sirota M. Decision- makers are resilient in the face of social exclusion. British Journal of Psychology, 2018, 109(3): 604-630 
-Reddy LF, Irwin MR, Breen EC, et al. Social exclusion in schizophrenia: Psychological and cognitive consequences. Journal of Psychiatric Research, 2019, 114: 120-125
+
+Reddy LF, Irwin MR, Breen EC, et al. Social exclusion in schizophrenia: 
+Psychological and cognitive consequences. Journal of Psychiatric Research, 2019, 114: 120-125
+
 Rudert, S. C., Ruf, S., & Greifeneder, R. (2019). Whom to Punish? How observers sanction norm-violating behavior in ostracism situations. European Journal of Social Psychology, 50(2), 376–391.
+
 Wesselmann, E. D., Williams, K. D., & Hales, A. H. (2013). Vicarious ostracism. Frontiers in Human Neuroscience, 7(7), 153.
+
 Williams, K. D. Ostracism: The kiss of social death. Social and Personality Psychology Compass, 2007（1）, 236–247.
+
 L. Zardro, K.D. Williams, R. Richardson. How long can you go? Ostracism by a computer is sufficient to lower mood and self-reported levels of belonging, control, self-esteem, and meaningful existence. Journal of Experimental Social Psychology,2004, 40, 560-567.       
 
 二、Approach 1: Cyberball 方法一：虚拟掷球
