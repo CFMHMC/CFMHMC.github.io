@@ -1,9 +1,9 @@
 ---
-name: 王金美阳，jinmeiyang Wang
+name: 王金美阳，Jinmeiyang Wang
 image: images/meiyangwang.jpg
 # description: Lead Programmer
-role: M.A. Student
+role: Ph.D. Student
 # links:
-#   email: sarah.johnson@gmail.com
+#   email: 948937813@qq.com
 #   twitter: sarahjohnson
 ---

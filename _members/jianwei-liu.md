@@ -1,5 +1,5 @@
 ---
-name: 刘建伟，Jianwei Liu
+name: 刘建伟，Luciano Liu
 image: images/jianweiliu.jpg
 # description: Lead Programmer
 role: M.A. Student
