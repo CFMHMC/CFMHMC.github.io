@@ -28,9 +28,9 @@ This book is suitable for researchers and students in the field of journalism an
 
 本书以创新性的跨学科视角将人工智能技术、社会科学实证研究以及人文思辨有机结合起来，在解答既有问题的同时又不断提出新的问题，将人工智能如何革新人类交流这一话题不断深入推进。本书适用于新闻传播学的研究者与学习者，也适合对智能媒体、人工智能、技术发展等话题感兴趣的广大读者阅读。
 
-![book1](D:/images/book1.png)
-![book2](D:/images/book2.png)
-![book3](D:/images/book3.png)
+![book1](../images/book1.png)
+![book2](../images/book1.png)
+![book3](../images/book1.png)
 ### 2024.06
 **Gains and fun at ICA 2024**
 
