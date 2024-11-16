@@ -1,6 +1,6 @@
 ---
 name: 蓝剑锋, Jianfeng (Jeff) Lan
-image: images/lanjianfeng.jpg
+image: images/lanjianfeng1.jpg
 # description: Lead Programmer
 role: Ph.D. Student
 aliases:
