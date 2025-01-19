@@ -12,25 +12,16 @@ Meet us in Denver in June!
 
 Our center is going to send out a team to attend ICA 2025. See you in Denver in June! You can search for our presentations in the ICA program. Look forward to communicating with you in person.
 
-Chen, J., Dai, F., & Mou, Y. (2025, June). AI Fact-checking or Rumor-debunking? Assessing the Impact of Source, Genre Type, and Heuristic Thinking on Correction Credibility. Paper to be presented at the annual convention of ICA, Denver, U.S.
-
-Fu, B., & Li, X. (2025, June). We Are Equally Vulnerable? An Examination of The Third-Person Effect in AI-Generated Misinformation. Paper to be presented at the annual convention of ICA, Denver, U.S.
-
-Guo, L., & Li, X. (2025, June). The Hidden Burden: Predicting Emotional Labor and Post-traumatic Stress Disorder (PTSD) among China’s Frontline Reporters. Paper to be presented at the annual convention of ICA, Denver, U.S.
-
-Huang, Y., Lan, J. (2025, June). Love the way you are: Examine the attribute of human-AI intimate relationships. Paper to be presented at the annual convention of ICA, Denver, U.S.
-
-Li, X., Chan, M., & Fu, B. (2025, June). Being Reciprocal for Well-being: A Dual Process from Reciprocity Norms to Psychological Well-being through Mobile Phone Checking Behaviors. Paper to be presented at the annual convention of ICA, Denver, U.S.
-
-Lv, Y., Chen, M., Mou, Y., & Fu, B. (2025, June). Samantha’s Legacy: Exploring Hyperpersonal Effect in Human-Machine Communication and Associated Mechanisms. Paper to be presented at the annual convention of ICA, Denver, U.S.
-
-Madiba, G. J., Haand, R., & Yao, Y. (2025, June). The Impact of Using ChatGPT on University Students’ Academic Performance and Critical Thinking: a moderated mediation analysis. Paper to be presented at the annual conference of ICA, Denver, US.
-
-Mou, Y., Chen, J., & Dai, F. (2025, June). Racing between Machine Heuristics and Authority Heuristics: The Effect of AI Sources on Correcting Scientific Misinformation in Fact-checking and Rumor-debunking. Paper to be presented at the annual convention of ICA, Denver, U.S.
-
-Yeilaghi, N., & Ghanbarian, A. (2025, June). Image Manipulation and Political Reality: An Experimental Study of Evidence Acceptance on social media. Paper to be presented at the annual convention of ICA, Denver, U.S.
-
-Zhang, L., Huang, K., & Wu, F. (2025, June). Empowerment or Strain: How Social Media Shapes Parenting Ideologies and Mental Health Among New Mothers in China. Paper to be presented at the annual convention of ICA, Denver, U.S.
+- Chen, J., Dai, F., & Mou, Y. (2025, June). AI Fact-checking or Rumor-debunking? Assessing the Impact of Source, Genre Type, and Heuristic Thinking on Correction Credibility. Paper to be presented at the annual convention of ICA, Denver, U.S.
+- Fu, B., & Li, X. (2025, June). We Are Equally Vulnerable? An Examination of The Third-Person Effect in AI-Generated Misinformation. Paper to be presented at the annual convention of ICA, Denver, U.S.
+- Guo, L., & Li, X. (2025, June). The Hidden Burden: Predicting Emotional Labor and Post-traumatic Stress Disorder (PTSD) among China’s Frontline Reporters. Paper to be presented at the annual convention of ICA, Denver, U.S.
+- Huang, Y., Lan, J. (2025, June). Love the way you are: Examine the attribute of human-AI intimate relationships. Paper to be presented at the annual convention of ICA, Denver, U.S.
+- Li, X., Chan, M., & Fu, B. (2025, June). Being Reciprocal for Well-being: A Dual Process from Reciprocity Norms to Psychological Well-being through Mobile Phone Checking Behaviors. Paper to be presented at the annual convention of ICA, Denver, U.S.
+- Lv, Y., Chen, M., Mou, Y., & Fu, B. (2025, June). Samantha’s Legacy: Exploring Hyperpersonal Effect in Human-Machine Communication and Associated Mechanisms. Paper to be presented at the annual convention of ICA, Denver, U.S.
+- Madiba, G. J., Haand, R., & Yao, Y. (2025, June). The Impact of Using ChatGPT on University Students’ Academic Performance and Critical Thinking: a moderated mediation analysis. Paper to be presented at the annual conference of ICA, Denver, US.
+- Mou, Y., Chen, J., & Dai, F. (2025, June). Racing between Machine Heuristics and Authority Heuristics: The Effect of AI Sources on Correcting Scientific Misinformation in Fact-checking and Rumor-debunking. Paper to be presented at the annual convention of ICA, Denver, U.S.
+- Yeilaghi, N., & Ghanbarian, A. (2025, June). Image Manipulation and Political Reality: An Experimental Study of Evidence Acceptance on social media. Paper to be presented at the annual convention of ICA, Denver, U.S.
+- Zhang, L., Huang, K., & Wu, F. (2025, June). Empowerment or Strain: How Social Media Shapes Parenting Ideologies and Mental Health Among New Mothers in China. Paper to be presented at the annual convention of ICA, Denver, U.S.
 
 
 ### 2024.09
