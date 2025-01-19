@@ -18,12 +18,14 @@ We are a group of geeky nerds and nerdy geeks.
 {% include list.html data="members" component="portrait" filters="name: 牟怡" %}
 {% include list.html data="members" component="portrait" filters="name: 阎峰" %}
 
-## Ph.D. Student
+## Research Fellow
+{% include list.html data="members" component="portrait" filters="name: 黄艺彤" %}
+{% include list.html data="members" component="portrait" filters="name: 李雪晴" %}
+{% include list.html data="members" component="portrait" filters="name: 张连珊" %}
+
+## Research Assistant
 
 {% include list.html data="members" component="portrait" filters="role: Ph.D. Student" %}
-
-## M.A. Student
-
 {% include list.html data="members" component="portrait" filters="role: M.A. Student" %}
 
 <!-- ## Previous Member
