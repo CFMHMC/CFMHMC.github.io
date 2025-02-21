@@ -22,7 +22,7 @@ We are a group of geeky nerds and nerdy geeks.
 {% include list.html data="members" component="portrait" filters="name: 黄艺彤" %}
 {% include list.html data="members" component="portrait" filters="name: 李雪晴" %}
 {% include list.html data="members" component="portrait" filters="name: 张连珊" %}
-
+{% include list.html data="members" component="portrait" filters="name: Lin Zhang" %}
 ## Research Assistant
 
 {% include list.html data="members" component="portrait" filters="role: Ph.D. Student" %}
