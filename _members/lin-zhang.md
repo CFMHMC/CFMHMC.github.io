@@ -1,6 +1,6 @@
 ---
 name: 张林， Lin Zhang, Ph.D.
-image: images/zhanglin.jpg
+image: images/zhanglin1.jpg
 # description: Lead Programmer
 role: Research Fellow
 links:
