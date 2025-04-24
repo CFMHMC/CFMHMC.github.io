@@ -9,6 +9,7 @@ nav:
 
 ### 2025.04
 Welcome to our…
+
 ![activity](../images/activity.jpg)
 
 ### 2025.01
