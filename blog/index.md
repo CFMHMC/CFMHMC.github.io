@@ -7,6 +7,10 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
+### 2025.04
+Welcome to our…
+![activity](../images/activity.jpg)
+
 ### 2025.01
 Meet us in Denver in June!
 
