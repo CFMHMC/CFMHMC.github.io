@@ -8,7 +8,7 @@ nav:
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
 ### 2025.04
-Welcome to our…
+Welcome to our 3rd Human-Machine Communication Graduate Students Symposium on April 28.
 
 ![activity](../images/activity.jpg)
 
