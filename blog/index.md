@@ -10,9 +10,13 @@ nav:
 ### 2025.04
 Welcome to our 3rd Human-Machine Communication Graduate Students Symposium on April 28, 2025!
 
-<div style="text-align:center">
-< img src="../images/activity.jpg" alt="" style="width:40%; height:auto">
-</div>
+{%
+  include figure.html
+  image="images/activity.jpg"
+  caption=""
+  link="team"
+  width="40%"
+%}
 
 ### 2025.01
 Meet us in Denver in June!
