@@ -7,6 +7,20 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
+### 2025.05
+Shuyi Pan Wins Honorable Mention at CHI 2025 for Research on Human-Chatbot Relationships
+
+{%
+  include figure.html
+  image="images/output.jpg"
+  caption=""
+  link="team"
+  width="40%"
+%}
+
+
+Shuyi Pan’s paper, “Developing a Social Support Framework: Understanding the Reciprocity in Human-Chatbot Relationship,” received an Honorable Mention (top 5%) at CHI 2025, a top-tier HCI conference. The study explores how users and chatbots engage in mutual support exchanges, offering new insights into social AI. Pan presented the work at the CHI conference in Yokohama, Japan on April 4th. Congratulations!
+
 ### 2025.04
 Welcome to our 3rd Human-Machine Communication Graduate Students Symposium on April 28, 2025!
 
