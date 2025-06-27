@@ -10,4 +10,4 @@ links:
 #   email: sarah.johnson@gmail.com
 #   twitter: sarahjohnson
 ---
-Homepage: [Click here](https://www.jianfenglan.com/)
+Homepage: [Click here](https://jianfenglan.github.io)
