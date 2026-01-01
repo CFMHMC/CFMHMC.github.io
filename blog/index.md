@@ -7,6 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
+### 2026.01
+Welcome to attend the online talk titled "Robots and AI in the Classroom: Extending HMC into Instructional Communication" by Dr. Chad Edwards on January 9, 2026.
+
+{%
+  include figure.html
+  image="images/blog.png"
+  caption=""
+  link="team"
+  width="40%"
+%}
+
 ### 2025.05
 Shuyi Pan Wins Honorable Mention at CHI 2025 for Research on Human-Chatbot Relationships
 
