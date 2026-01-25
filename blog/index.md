@@ -16,26 +16,42 @@ Multiple submissions from our center have been accepted by ICA 2026. You can sea
   image="images/ica.png"
   caption=""
   link="team"
-  width="40%"
+  width="60%"
 %}
 
-Huang, Y., & Mou, Y. (2026, June). Flatter Me, Fool Me? How Chatbots Shape Evaluations of Emerging Technologies through Emotion Spillover Effect. 
-Ni, Y., Liu, Z., & Mou, Y. (2026, June). Experiencing Flood Through My Own Eyes: The Use of Face-Swapping Technology in Achieving Persuasive Climate Change-related Intentions. 
-Huang, Y., & Mou, Y. (2026, June). “How Dare My AI Boyfriend Push Me to Have a Baby?”: Feminist Digital Practices of Engagement with AI Motherhood Discourses. 
-Pan, S., Ma, W., & Mou, Y. (2026, June). Alone Together with AI: Revealing How AI-Based Social Support Empowers and Alienates Users. 
-Huang, Y., & Mou, Y. (2026, June). Would Chatbots’ Stance Affect Users’ Extreme Opinion? Exploring the Depolarization Effect of Opposing Chatbots. 
-Ma, W., Ye, X., Mou, Y. (2026, June). Building and Repairing Trust in Chatbots: The Interplay between Social Role and Real-time Performance. 
-Lan, J., Lu, J., & Mou, Y. (2026, June). When Humans Adapt to Machines: Investigating Users’ Conflict Management Accommodative Strategy in Human-AI Triad Groups. 
-Huo, Y., Ma, X., & Mou, Y. (2026, June). Social Compensation Through Selective Self-Disclosure in User–Smart Speaker Communication within Digital Companionship Contexts. 
-Mou, Y., Ma, W., & Xu, J. (2026, June). When Generative AI “Bullshits”: The Roles of Perceived Profoundness and Uncanniness of AIGC in Shaping AI-related Conspiratorial Beliefs. 
-Ni, Y., Mou, Y., & Zhang, Y. (2026, June). Algorithmic Stratification in Social Media Narrative Framing: An Agent-based Testing of Sex and Educational Disparities in Career Information Access. 
-Fu, P., Ye, X., Li, J., Huang, Y., & Mou, Y. (2026, June). Slipping Through the Cracks: Identity Work, Boundary Negotiation, and the Mediation of AI Knowledge among Grassroots Prompt Engineer. 
-Nguyen, L., & Zhang, L. (2026, June). Exploring the Longitudinal Influence of AI Companion Affordances on Emotional Resilience, Socialization, and Problematic Use: A Cross-Lagged Panel Network Approach. 
-Wang, T., & Zhang, L. (2026, June). Liquid Journalism in the Platform Era: Newsroom Transformation and Professional Boundary Work on Douyin.
-Guo, C., & Zhang, L. (2026, June). Concealed disparity and algorithmic black boxes: Mobile use among Chinese silver hair demographic.
-Li X., Huang G., Fu, B., & Cheng, W. (2026, June). Delegated or Self-Interested Censorship? A Study of Censorship Experiences, Algorithm Trust, and Censorship Attitudes.
-Chen, L., & Li, X. (2026, June). Tensions of Expectations: Exploring Relational Dialectics in Human-AI Romance.
-Zhang, J., Chen, Y., Yuan, J., & Li, X. (2026, June). Paying to Be Loved: The Commodification of Intimacy in Human–AI Relationships.
+- Huang, Y., & Mou, Y. (2026, June). Flatter Me, Fool Me? How Chatbots Shape Evaluations of Emerging Technologies through Emotion Spillover Effect. 
+
+- Ni, Y., Liu, Z., & Mou, Y. (2026, June). Experiencing Flood Through My Own Eyes: The Use of Face-Swapping Technology in Achieving Persuasive Climate Change-related Intentions. 
+
+- Huang, Y., & Mou, Y. (2026, June). “How Dare My AI Boyfriend Push Me to Have a Baby?”: Feminist Digital Practices of Engagement with AI Motherhood Discourses. 
+
+- Pan, S., Ma, W., & Mou, Y. (2026, June). Alone Together with AI: Revealing How AI-Based Social Support Empowers and Alienates Users. 
+
+- Huang, Y., & Mou, Y. (2026, June). Would Chatbots’ Stance Affect Users’ Extreme Opinion? Exploring the Depolarization Effect of Opposing Chatbots. 
+
+- Ma, W., Ye, X., Mou, Y. (2026, June). Building and Repairing Trust in Chatbots: The Interplay between Social Role and Real-time Performance. 
+
+- Lan, J., Lu, J., & Mou, Y. (2026, June). When Humans Adapt to Machines: Investigating Users’ Conflict Management Accommodative Strategy in Human-AI Triad Groups. 
+
+- Huo, Y., Ma, X., & Mou, Y. (2026, June). Social Compensation Through Selective Self-Disclosure in User–Smart Speaker Communication within Digital Companionship Contexts. 
+
+- Mou, Y., Ma, W., & Xu, J. (2026, June). When Generative AI “Bullshits”: The Roles of Perceived Profoundness and Uncanniness of AIGC in Shaping AI-related Conspiratorial Beliefs. 
+
+- Ni, Y., Mou, Y., & Zhang, Y. (2026, June). Algorithmic Stratification in Social Media Narrative Framing: An Agent-based Testing of Sex and Educational Disparities in Career Information Access. 
+
+- Fu, P., Ye, X., Li, J., Huang, Y., & Mou, Y. (2026, June). Slipping Through the Cracks: Identity Work, Boundary Negotiation, and the Mediation of AI Knowledge among Grassroots Prompt Engineer. 
+
+- Nguyen, L., & Zhang, L. (2026, June). Exploring the Longitudinal Influence of AI Companion Affordances on Emotional Resilience, Socialization, and Problematic Use: A Cross-Lagged Panel Network Approach. 
+
+- Wang, T., & Zhang, L. (2026, June). Liquid Journalism in the Platform Era: Newsroom Transformation and Professional Boundary Work on Douyin.
+
+- Guo, C., & Zhang, L. (2026, June). Concealed disparity and algorithmic black boxes: Mobile use among Chinese silver hair demographic.
+
+- Li X., Huang G., Fu, B., & Cheng, W. (2026, June). Delegated or Self-Interested Censorship? A Study of Censorship Experiences, Algorithm Trust, and Censorship Attitudes.
+
+- Chen, L., & Li, X. (2026, June). Tensions of Expectations: Exploring Relational Dialectics in Human-AI Romance.
+
+- Zhang, J., Chen, Y., Yuan, J., & Li, X. (2026, June). Paying to Be Loved: The Commodification of Intimacy in Human–AI Relationships.
 
 ### 2026.01
 Welcome to attend the online talk titled "Robots and AI in the Classroom: Extending HMC into Instructional Communication" by Dr. Chad Edwards on January 9, 2026.
