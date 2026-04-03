@@ -4,7 +4,7 @@ image: images/BolinCao.jpg
 # description: Lead Programmer
 role: Research Fellow
 
-links: https://cmc.szu.edu.cn/info/1068/1095.htm
+links: https://cmc.szu.edu.cn/info/1067/3676.htm
 email: caobolin@szu.edu.cn
 #   twitter: sarahjohnson
 ---
