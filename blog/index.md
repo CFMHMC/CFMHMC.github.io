@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
-### 2026.01
-See you in Cape Town in June
+### 2026.01 See you in Cape Town in June
 Multiple submissions from our center have been accepted by ICA 2026. You can search for our presentations in the upcoming ICA program. See you in Cape Town, South Africa, in June!
 
 {%
