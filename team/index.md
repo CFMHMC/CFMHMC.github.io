@@ -7,9 +7,9 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-我们是一群由具有极客精神的书呆子和具有书呆子气的极客组合而成的团队。
+我们是一群由具有极客精神的书呆子和具有书呆子气的极客组合而成的团队。我们为这个团队感到自豪。
 
-We are a group of geeky nerds and nerdy geeks. 
+We are a group of geeky nerds and nerdy geeks. We are proud to be who we are.
 
 {% include section.html %}
 
