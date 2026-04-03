@@ -7,7 +7,12 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
 
-### 2026.01 See you in Cape Town in June
+### 2026.04   Welcome to our Four Chairs Project
+We are conducting an exciting project called “The Four Chairs Project,” which is inspired by Dr. Sherry Turkle’s influential book, Reclaiming Conversation. Through this initiative, we aspire to foster cross-disciplinary dialogues with researchers and practioners from AI-related fields. As we stand at the cusp of the age of artificial general intelligence (AGI), the way we generate knowledge necessitates profound transformation. Therefore, it is imperative for us to venture beyond the confines of our familiar knowledge domains. The Four Chairs Project aims to foster a collective effort in embracing unrestrained imagination, driving us towards innovative and transformative thinking in this brave new world.
+
+Our center is located at the beautiful campus of Shanghai Jiao Tong University (SJTU), surrounded by a handful of nice cafes. Welcome to talk to us over a cup of coffee or tea. Or you can reach the founding director, Dr. Yi Mou, virtually at yimou@sjtu.edu.cn.
+
+### 2026.01   See you in Cape Town in June
 Multiple submissions from our center have been accepted by ICA 2026. You can search for our presentations in the upcoming ICA program. See you in Cape Town, South Africa, in June!
 
 {%
