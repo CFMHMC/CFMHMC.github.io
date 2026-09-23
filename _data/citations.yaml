@@ -23,7 +23,7 @@
   publisher: Public Understanding of Science
   date: '2026-08-28'
   link: https://doi.org/hckfvh
-  orcid: 0000-0002-6836-5933
+  orcid: 0009-0005-3444-1714
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1177/08944393251340693
@@ -48,7 +48,7 @@
   publisher: Journal of Broadcasting &amp; Electronic Media
   date: '2026-05-16'
   link: https://doi.org/hckfvk
-  orcid: 0000-0002-6836-5933
+  orcid: 0009-0005-3444-1714
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/bs16010118
@@ -74,7 +74,7 @@
   publisher: Technology in Society
   date: '2025-12-01'
   link: https://doi.org/hckfvn
-  orcid: 0000-0002-6836-5933
+  orcid: 0009-0005-3444-1714
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1080/19331681.2025.2592126
@@ -86,7 +86,7 @@
   publisher: Journal of Information Technology &amp; Politics
   date: '2025-11-21'
   link: https://doi.org/hckfvp
-  orcid: 0000-0002-6836-5933
+  orcid: 0009-0005-3444-1714
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1080/10447318.2024.2411619
@@ -125,7 +125,7 @@
   publisher: New Media &amp; Society
   date: '2023-12-02'
   link: https://doi.org/gtk2wc
-  orcid: 0000-0002-6836-5933
+  orcid: 0009-0000-1241-3361
   plugin: sources.py
   file: sources.yaml
   type: paper
@@ -534,6 +534,118 @@
   date: '2017-07-01'
   link: https://doi.org/gf2k3r
   orcid: 0000-0002-6836-5933
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tele.2026.102446
+  title: 'Subscribe to intimacy: platform capitalism, governance, and the stratification
+    of AI companionship'
+  authors:
+  - Jianfeng Lan
+  - KJ Kaixin Deng
+  - Yingjia Huang
+  publisher: Telematics and Informatics
+  date: '2026-09-01'
+  link: https://doi.org/hckf2c
+  orcid: 0009-0000-1241-3361
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/13634593261473177
+  title: "Provincializing vulnerability: Rethinking communication inequality in East\
+    \ Asia\u2019s COVID-19 research"
+  authors:
+  - Yingjia Huang
+  - Jianfeng Lan
+  publisher: 'Health: An Interdisciplinary Journal for the Social Study of Health,
+    Illness and Medicine'
+  date: '2026-08-12'
+  link: https://doi.org/hckf2d
+  orcid: 0009-0000-1241-3361
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.telpol.2026.103190
+  title: 'Empowering civic engagement in AI governance: A two-wave panel study on
+    AI literacy and participatory governance of generative AI in China'
+  authors:
+  - Zhi Lin
+  - Qianyi Jin
+  - Jianfeng Lan
+  publisher: Telecommunications Policy
+  date: '2026-07-01'
+  link: https://doi.org/hckf2f
+  orcid: 0009-0000-1241-3361
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1037/ppm0000636
+  title: "Personality meets the machine: Traits and attributes in human\u2013artificial\
+    \ intelligence intimate interactions."
+  authors:
+  - Yingjia Huang
+  - Jianfeng Lan
+  publisher: Psychology of Popular Media
+  date: '2025-10-16'
+  link: https://doi.org/hbj34d
+  orcid: 0009-0000-1241-3361
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1177/27523543251334157
+  title: "Performing Intimacy: Curating the Self-Presentation in Human\u2013AI Relationships"
+  authors:
+  - Jianfeng Lan
+  - Yingjia Huang
+  publisher: Emerging Media
+  date: '2025-04-13'
+  link: https://doi.org/hckf2g
+  orcid: 0009-0000-1241-3361
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2505.01355
+  title: 'Emerging Media Use and Acceptance of Digital Immortality: A Cluster Analysis
+    among Chinese Young Generations'
+  authors:
+  - Yi Mou
+  - Jianfeng Lan
+  - Jingyao Lu
+  publisher: arXiv
+  date: '2025-01-01'
+  link: https://doi.org/hckf2h
+  orcid: 0009-0000-1241-3361
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/S00146-025-02693-0
+  title: 'Person, thing, robot: a moral and legal ontology for the twenty-first century
+    and beyond'
+  authors:
+  - Jianfeng Lan
+  publisher: AI &amp; SOCIETY
+  date: '2025-10-18'
+  link: https://doi.org/hckf2j
+  orcid: 0009-0000-1241-3361
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/10410236.2025.2544987
+  title: "\u201CLove Over Fear\u201D: How Nostalgic Songs and Relationship Types Buffer\
+    \ Death Anxiety"
+  authors:
+  - Weixi Zeng
+  - Junyi Chen
+  publisher: Health Communication
+  date: '2025-08-11'
+  link: https://doi.org/hckf2k
+  orcid: 0009-0005-3444-1714
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bodyim.2025.101985
+  title: '"Beauty knows no bounds": Exploring the influence of body size and content
+    focus on women''s body positivity'
+  authors:
+  - Weixi Zeng
+  - Junyi Chen
+  - Yi-Xin Zhou
+  - Nainan Wen
+  publisher: Body Image
+  date: '2025-12-01'
+  link: https://doi.org/hckf2m
+  orcid: 0009-0005-3444-1714
   plugin: orcid.py
   file: orcid.yaml
 - id: arxiv:1706.03762
