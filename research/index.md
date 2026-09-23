@@ -10,12 +10,6 @@ nav:
 
 {% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="Good night versus goodbye? Comparing the mourning remarks" style="rich" %}
-
-{% include section.html %}
-
 ## All
 
 {% include search-box.html %}
