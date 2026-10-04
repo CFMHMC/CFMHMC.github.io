@@ -1,6 +1,6 @@
 ---
-name: 黄译禾，Yihe Huang
-image: images/YiheHuang.jpg
+name: 匡晶洁，Jingjie Kuang
+image: images/Jingjie Kuang.jpg
 # description: Lead Programmer
 role: M.A. Student
 # links:
