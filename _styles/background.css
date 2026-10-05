@@ -17,4 +17,9 @@
   z-index: -1;
 }
 
+header[data-big]:before {
+  background-image: none;
+  opacity: 0;
+}
+
 /*# sourceMappingURL=background.css.map */
