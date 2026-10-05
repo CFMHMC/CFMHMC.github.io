@@ -1,9 +1,9 @@
 ---
 ---
 
-$logo-big: 80px;
+$logo-big: 56px;
 $logo: 40px;
-$big-padding: 100px;
+$big-padding: 48px;
 $collapse: 700px;
 $sticky: true;
 
@@ -138,7 +138,7 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  min-height: clamp(360px, 45vw, 560px);
+  min-height: clamp(240px, 32vw, 380px);
   padding: $big-padding 20px;
   overflow: hidden;
 
