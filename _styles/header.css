@@ -121,8 +121,8 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  min-height: clamp(360px, 45vw, 560px);
-  padding: 100px 20px;
+  min-height: clamp(240px, 32vw, 380px);
+  padding: 48px 20px;
   overflow: hidden;
   top: unset;
 }
@@ -131,7 +131,7 @@ header[data-big] .home {
   flex-grow: 0;
 }
 header[data-big] .logo {
-  height: 80px;
+  height: 56px;
 }
 header[data-big] .title {
   flex-direction: column;
