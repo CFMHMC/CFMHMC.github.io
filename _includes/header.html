@@ -16,6 +16,9 @@
     data-big
   {% endif %}
 >
+  {% if page.url == "/" and image %}
+    <img class="header-banner" src="{{ image }}" alt="">
+  {% endif %}
   <a href="{{ "/" | relative_url }}" class="home">
     {% if logo %}
       <span class="logo">

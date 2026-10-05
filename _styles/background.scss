@@ -19,3 +19,10 @@
   opacity: 0.4;
   z-index: -1;
 }
+
+// Hide background-image pseudo on data-big header so the <img class="header-banner">
+// can render the banner with object-fit: contain without stacking on a duplicate.
+header[data-big]:before {
+  background-image: none;
+  opacity: 0;
+}
