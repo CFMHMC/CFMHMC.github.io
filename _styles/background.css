@@ -10,10 +10,10 @@
   position: absolute;
   inset: 0;
   background-image: var(--image);
-  background-size: 100% auto;
+  background-size: contain;
   background-repeat: no-repeat;
-  background-position: 100% 50%;
-  opacity: 0.6;
+  background-position: center center;
+  opacity: 0.4;
   z-index: -1;
 }
 

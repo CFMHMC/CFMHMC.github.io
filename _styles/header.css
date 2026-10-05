@@ -121,6 +121,7 @@ header[data-big] {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  min-height: clamp(360px, 45vw, 560px);
   padding: 100px 20px;
   top: unset;
 }
